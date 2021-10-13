@@ -1,6 +1,6 @@
 # React Form Generator
 
-In this project the goal is to create a desktop application which fulfil the needs of a "Water Sale" program by using Java, SQLite and JFrame. Project aims to establish the communication between the Customer and the Seller.
+It is the project that dynamically brings the form from the API to our site.
 
 ## Languages and Technologies Used in this Project
 
